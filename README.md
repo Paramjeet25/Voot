@@ -1,6 +1,6 @@
    
    {
-"New_Version": "4.5.1",
+"New_Version": "4.5.0",
 
 "Dialog_Title": "Update Found v1.5",
 "Title_Color" : "#FF000000",
