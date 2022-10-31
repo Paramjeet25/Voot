@@ -28,14 +28,14 @@ If you get any problem related to mod So Contacts us On Telegram @Modderfamilyow
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "http://pastebin.com/raw/AJF6gWZs",
+"Download_Link" : "https://files.technicalatg.com/5vBlZ",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "true",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
 "Website_Link" : "https://t.me/ModderFamily",
-"Share_Mod_Text" : "Hey I found a great mod.",
+"Share_Mod_Text" : "Hello Bro I found an Interesting Mod of voot if you use this mod then you are no need to pay a sinle rupee for this mod so download now by clicking on this link https://t.me/ModderFamily",
 
 
 "Dialog_Stroke_Color" : "#FF0B8B42",
