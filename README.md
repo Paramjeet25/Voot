@@ -1,8 +1,8 @@
    
    {
-"New_Version": "4.5.0",
+"New_Version": "4.5.1",
 
-"Dialog_Title": "Update Found v1.5",
+"Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
 
 "Dialog_Message": "Hello ModderFamily mods User Thanks You Choosing Us we are happy to announce That Update Of this Mod is available So Please Click on Download Button to Download New
